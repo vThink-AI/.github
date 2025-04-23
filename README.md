@@ -1,4 +1,3 @@
-# .github
 # vThink AI & Systems Project Suite
 
 Welcome to the **vThink GitHub Organization** — home to a suite of innovative AI, automation, and system intelligence projects developed to enhance business experiences across industries like telecommunications, hospitality, IT services, and enterprise operations.
