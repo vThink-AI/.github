@@ -62,7 +62,7 @@ We welcome collaboration! Please read our [CONTRIBUTING.md](./CONTRIBUTING.md) f
 ## 📬 Contact
 
 Have a question or suggestion?  
-Reach out to us at **[contactus@vthink.co.in](https://vthink.ai/)** or open an issue in the relevant repo.
+Reach out to us at **[contactus@vthink.co.in](https://vthink.ai/)** or [vthink.ai](https://vthink.ai/)
 
 ---
 
